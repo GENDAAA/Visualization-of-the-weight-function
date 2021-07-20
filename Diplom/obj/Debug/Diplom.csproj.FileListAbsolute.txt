@@ -1,0 +1,9 @@
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\obj\Debug\Diplom.g.resources
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\vorob\Desktop\Yes, science\Diplom\Diplom\obj\Debug\Diplom.pdb
